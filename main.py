@@ -45,6 +45,98 @@ def RunAndSaveToJSON(url, number):
     driver.close()
 
 
+def OverrideReportGeneratorToGenerateJSON(url, violations):
+    """
+    Overwrite the inbuilt report method for axe_selenium method,
+    instead generating as JSON
+    """
+    employee_string = '''{{
+        "URL": "{}", 
+        "Violations": "{}",
+        "Problems": [
+            {}
+        ]}},'''.format(
+            url,
+            str(len(violations)),
+            GenerateJSONProblemArray(violations)
+        )
+    return employee_string
+
+def CreateJSONElementsAffected(nodes):
+    """
+    Generates the Target element details section
+    """
+    i = 1
+    string = ""
+    for node in nodes:
+        string += '''{{
+            "Target": [
+                {}
+            ],
+            "Details": [{{
+                "All": [
+                    {}
+                ],
+                "Any": [
+                    {}
+                ],
+                "None": [
+                    {}
+                ]
+            }}]}},'''.format(
+                CreateJSONListOfString(node["target"]),
+                MultidimensionalArray(node["all"]),
+                MultidimensionalArray(node["any"]),
+                MultidimensionalArray(node["none"])
+            )
+    return string[:-1]
+
+def GenerateJSONProblemArray(violations):
+    """
+    Generate the Problem section, the main meaty bit
+    """
+    string = ""
+    for violation in violations:
+        string += '''{{
+            "Rule": "{}",
+            "Description": "{}", 
+            "HelpURL": "{}",
+            "Impact": "{}",
+            "Tags": [
+                {}
+            ],
+            "Element affected": [
+                {}
+            ]
+            }},'''.format(
+                violation["id"],
+                violation["description"],
+                violation["helpUrl"],
+                violation["impact"],
+                CreateJSONListOfString(violation["tags"]),
+                CreateJSONElementsAffected(violation["nodes"])
+            )
+    return string[:-1]
+
+def CreateJSONListOfString(list):
+    """
+    Just generates an array of JSON strings
+    """
+    string = ""
+    for item in list:
+        string += '{},'.format(json.dumps(item))
+    return string[:-1] # Remove last , character
+
+def MultidimensionalArray(nodes):
+    """
+    Utilises the above method when it's a multidimensional array
+    """
+    string = ""
+    for node in nodes:
+        string += CreateJSONListOfString(node["message"])
+    return string
+
+
 def RunAndReturnViolations(url):
     """
     Take in a URL, hit it with axe and return a 
@@ -59,7 +151,7 @@ def RunAndReturnViolations(url):
     # Run and store results
     results = axe.run()
     driver.close()
-    return axe.report(results["violations"])
+    return results["violations"]
 
 
 ### -------------------------
@@ -73,19 +165,20 @@ os.makedirs(os.path.abspath("Reports"),exist_ok=True)
 filepath = os.path.abspath("Reports/{}-AccessibilityCheck.txt".format(datetime.now().strftime("%m-%d-%Y_%H-%M-%S")))
 with open(filepath, "w", encoding="utf8") as f:
     try:
+        f.write("[")
         for index, page in enumerate(urls):
             print("[{}] Checking accessibility on page [{}]".format(GetTime(), page))
 
             #f.write(unicode(json.dumps(RunAndReturnViolations(page), indent=4)))
-            f.writelines("[Run {}]Validation for {}\n--------------\n".format(index, page))
-            f.write(RunAndReturnViolations(page))
-            f.write("\n\n")
-            
-            print("[{}] Completed check on page [{}], inserted into results{}.json".format(GetTime(), page, index))
-    
+            #f.writelines("[Run {}]Validation for {}\n--------------\n".format(index, page))
+            f.write(OverrideReportGeneratorToGenerateJSON(page, RunAndReturnViolations(page)))
+            #f.write("\n\n")
+            print("[{}] Completed check on page [{}]".format(GetTime(), page))
+        
+        f.write("]")
     except NameError:
         print("[{}] Problem saving file for url".format(GetTime()))
-        f.write("ERROR: problem running script")
+        #f.write("ERROR: problem running script")
 
     #end = time.time()
 
