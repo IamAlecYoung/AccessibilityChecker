@@ -1,0 +1,1810 @@
+[{
+    "URL": "https://www.fife.ac.uk/",
+    "Checked": "2022-12-04 21:55:00",
+    "Violations": "4",
+    "Problems": [
+        {
+            "Rule": "empty-heading",
+            "Description": "Ensures headings have discernible text",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/empty-heading?application=axeAPI",
+            "Impact": "minor",
+            "Tags": [
+                "cat.name-role-value",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "div[data-circle-image=\"\\30 \"] > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(2) > .align-left > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(3) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "landmark-one-main",
+            "Description": "Ensures the page has only one main landmark and each iframe in the page has at most one main landmark",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/landmark-one-main?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Page does not have a main landmark"
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/contact-us/",
+    "Checked": "2022-12-04 21:55:06",
+    "Violations": "4",
+    "Problems": [
+        {
+            "Rule": "empty-heading",
+            "Description": "Ensures headings have discernible text",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/empty-heading?application=axeAPI",
+            "Impact": "minor",
+            "Tags": [
+                "cat.name-role-value",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#wide_col > h1"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "heading-order",
+            "Description": "Ensures the order of headings is semantically correct",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/heading-order?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".umbraco-forms-page > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Heading order invalid"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                },
+                {
+                    "Target": [
+                        "#\\34 9f95809-e997-4711-e07c-4566355462e6_1"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "aria-label attribute does not exist or is empty",
+                            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+                            "Form element does not have an implicit (wrapped) <label>",
+                            "Form element does not have an explicit <label>",
+                            "Element has no title attribute or the title attribute is empty"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/news/fife-college-increases-degree-pathways-to-record-number/",
+    "Checked": "2022-12-04 21:55:12",
+    "Violations": "3",
+    "Problems": [
+        {
+            "Rule": "heading-order",
+            "Description": "Ensures the order of headings is semantically correct",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/heading-order?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "h4"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Heading order invalid"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                },
+                {
+                    "Target": [
+                        "#courseSearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/case-studies/",
+    "Checked": "2022-12-04 21:55:24",
+    "Violations": "3",
+    "Problems": [
+        {
+            "Rule": "heading-order",
+            "Description": "Ensures the order of headings is semantically correct",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/heading-order?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "h4"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Heading order invalid"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/courses/subject-areas/access-courses/",
+    "Checked": "2022-12-04 21:55:42",
+    "Violations": "6",
+    "Problems": [
+        {
+            "Rule": "color-contrast",
+            "Description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/color-contrast?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.color",
+                "wcag2aa",
+                "wcag143"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".row:nth-child(1) > .col-sm-6:nth-child(1) > div > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.32 (foreground color: #6f7c7d, background color: #ffffff, font size: 12.0pt, font weight: bold). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".row:nth-child(1) > .col-sm-6:nth-child(2) > div > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.32 (foreground color: #6f7c7d, background color: #ffffff, font size: 12.0pt, font weight: bold). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".row:nth-child(2) > .col-sm-6:nth-child(1) > div > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.32 (foreground color: #6f7c7d, background color: #ffffff, font size: 12.0pt, font weight: bold). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".row:nth-child(2) > .col-sm-6:nth-child(2) > div > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.32 (foreground color: #6f7c7d, background color: #ffffff, font size: 12.0pt, font weight: bold). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "#course_action > .btn-lg.button.btn > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 2.28 (foreground color: #ffffff, background color: #40bbcd, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".row > h2"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 2.28 (foreground color: #40bbcd, background color: #ffffff, font size: 22.5pt, font weight: bold). Expected contrast ratio of 3:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "a[href$=\"jake-leitch/\"] > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 2.28 (foreground color: #ffffff, background color: #40bbcd, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".col-md-3:nth-child(2) > .page_component.textblock > .p20.row > .col-md-12 > p:nth-child(2) > .btn-cyan[title=\"\"][rel=\"noopener\"] > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 2.67 (foreground color: #ffffff, background color: #ed7f6c, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".btn-cyan[href$=\"fcsa/\"][title=\"\"] > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 2.56 (foreground color: #ffffff, background color: #ab98d5, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".col-md-3:nth-child(4) > .page_component.textblock > .p20.row > .col-md-12 > p:nth-child(2) > .btn-cyan[title=\"\"][rel=\"noopener\"] > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.62 (foreground color: #ffffff, background color: #f7bad5, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".col-md-3:nth-child(5) > .page_component.textblock > .p20.row > .col-md-12 > p:nth-child(2) > .btn-cyan.btn-lg[rel=\"noopener\"] > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.8 (foreground color: #ffffff, background color: #ffaf7a, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "empty-heading",
+            "Description": "Ensures headings have discernible text",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/empty-heading?application=axeAPI",
+            "Impact": "minor",
+            "Tags": [
+                "cat.name-role-value",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "heading-order",
+            "Description": "Ensures the order of headings is semantically correct",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/heading-order?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".row:nth-child(1) > .col-sm-6:nth-child(1) > div > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Heading order invalid"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "landmark-one-main",
+            "Description": "Ensures the page has only one main landmark and each iframe in the page has at most one main landmark",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/landmark-one-main?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Page does not have a main landmark"
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/courses/subject-areas/data-science/",
+    "Checked": "2022-12-04 21:55:48",
+    "Violations": "5",
+    "Problems": [
+        {
+            "Rule": "color-contrast",
+            "Description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/color-contrast?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.color",
+                "wcag2aa",
+                "wcag143"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".cc-link"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.22 (foreground color: #f9f9f9, background color: #e3e3e3, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".quicklink.col-md-4:nth-child(1) > .quicklink-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.19 (foreground color: #ffffff, background color: #0086ac, font size: 13.5pt, font weight: bold). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".quicklink.col-md-4:nth-child(1) > .quicklink-content > .btn-md.button.btn > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".quicklink.col-md-4:nth-child(2) > .quicklink-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.19 (foreground color: #ffffff, background color: #0086ac, font size: 13.5pt, font weight: bold). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".quicklink.col-md-4:nth-child(2) > .quicklink-content > .btn-md.button.btn > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".quicklink.col-md-4:nth-child(3) > .quicklink-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.19 (foreground color: #ffffff, background color: #0086ac, font size: 13.5pt, font weight: bold). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".quicklink.col-md-4:nth-child(3) > .quicklink-content > .btn-md.button.btn > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".btn-lg > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 4.19 (foreground color: #ffffff, background color: #0086ac, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "frame-title",
+            "Description": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.text-alternatives",
+                "wcag2a",
+                "wcag241",
+                "wcag412",
+                "section508",
+                "section508.22.i"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#vimeo_id_0"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "aria-label attribute does not exist or is empty",
+                            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+                            "Element has no title attribute or the title attribute is empty",
+                            "Element's default semantics were not overridden with role=\"presentation\"",
+                            "Element's default semantics were not overridden with role=\"none\""
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "landmark-one-main",
+            "Description": "Ensures the page has only one main landmark and each iframe in the page has at most one main landmark",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/landmark-one-main?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Page does not have a main landmark"
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/courses/search-all-courses/NQESOL2",
+    "Checked": "2022-12-04 21:55:56",
+    "Violations": "7",
+    "Problems": [
+        {
+            "Rule": "aria-valid-attr-value",
+            "Description": "Ensures all ARIA attributes have valid values",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.aria",
+                "wcag2a",
+                "wcag412"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "a[href$=\"#durationCollapse\"]"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Invalid ARIA attribute value: aria-controls=\"durationCollpase\""
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "a[href$=\"#reqsCollapse\"]"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Invalid ARIA attribute value: aria-controls=\"reqsCollpase\""
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "a[href$=\"#fstudyCollapse\"]"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Invalid ARIA attribute value: aria-controls=\"fstudyCollpase\""
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "a[href$=\"#expsCollapse\"]"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Invalid ARIA attribute value: aria-controls=\"expsCollpase\""
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "a[href$=\"#processCollapse\"]"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Invalid ARIA attribute value: aria-controls=\"processCollpase\""
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "color-contrast",
+            "Description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/color-contrast?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.color",
+                "wcag2aa",
+                "wcag143"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#cookieconsent\\:desc"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.01 (foreground color: #ffffff, background color: #fdfdfe, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".cc-link"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.01 (foreground color: #ffffff, background color: #fdfdfe, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "heading-order",
+            "Description": "Ensures the order of headings is semantically correct",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/heading-order?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#left_col > h4"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Heading order invalid"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "link-name",
+            "Description": "Ensures links have discernible text",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.name-role-value",
+                "wcag2a",
+                "wcag412",
+                "wcag244",
+                "section508",
+                "section508.22.a"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "a[aria-label=\"\"]"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers",
+                            "aria-label attribute does not exist or is empty",
+                            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+                            "Element's default semantics were not overridden with role=\"presentation\"",
+                            "Element's default semantics were not overridden with role=\"none\""
+                        ],
+                        "None": [
+                            "Element is in tab order and does not have accessible text"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "list",
+            "Description": "Ensures that lists are structured correctly",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/list?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.structure",
+                "wcag2a",
+                "wcag131"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#courseInstances"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "List element has direct children that are not allowed inside <li> elements"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/studying-with-us/adam-smith-scholarships/apply-now/",
+    "Checked": "2022-12-04 21:56:15",
+    "Violations": "6",
+    "Problems": [
+        {
+            "Rule": "color-contrast",
+            "Description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/color-contrast?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.color",
+                "wcag2aa",
+                "wcag143"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(2) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(1) > div > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.64 (foreground color: #ffffff, background color: #bdd600, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(2) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(2) > div > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.64 (foreground color: #ffffff, background color: #bdd600, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(2) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(3) > div > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.64 (foreground color: #ffffff, background color: #bdd600, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(3) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(1) > div > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.64 (foreground color: #ffffff, background color: #bdd600, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(3) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(2) > div > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(3) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(3) > div > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "empty-heading",
+            "Description": "Ensures headings have discernible text",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/empty-heading?application=axeAPI",
+            "Impact": "minor",
+            "Tags": [
+                "cat.name-role-value",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(2) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(1) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(2) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(2) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(2) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(3) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(3) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(1) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(3) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(2) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(3) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(3) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "heading-order",
+            "Description": "Ensures the order of headings is semantically correct",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/heading-order?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".gridSection.p20:nth-child(2) > .container > section > .umb-grid > .grid-section > div > .container > .clearfix.row > .column.col-md-4:nth-child(1) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Heading order invalid"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "landmark-one-main",
+            "Description": "Ensures the page has only one main landmark and each iframe in the page has at most one main landmark",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/landmark-one-main?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Page does not have a main landmark"
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/about-us/getting-here/glenrothes-campus/",
+    "Checked": "2022-12-04 21:56:23",
+    "Violations": "4",
+    "Problems": [
+        {
+            "Rule": "heading-order",
+            "Description": "Ensures the order of headings is semantically correct",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/heading-order?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        ".campus-heading"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Heading order invalid"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                },
+                {
+                    "Target": [
+                        "#courseSearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "landmark-one-main",
+            "Description": "Ensures the page has only one main landmark and each iframe in the page has at most one main landmark",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/landmark-one-main?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Page does not have a main landmark"
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+},{
+    "URL": "https://www.fife.ac.uk/studying-with-us/student-support-services/student-funding/",
+    "Checked": "2022-12-04 21:56:43",
+    "Violations": "5",
+    "Problems": [
+        {
+            "Rule": "color-contrast",
+            "Description": "Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/color-contrast?application=axeAPI",
+            "Impact": "serious",
+            "Tags": [
+                "cat.color",
+                "wcag2aa",
+                "wcag143"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#cookieconsent\\:desc"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.28 (foreground color: #ffffff, background color: #e3e3e3, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".cc-link"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.22 (foreground color: #f9f9f9, background color: #e3e3e3, font size: 12.0pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "div[data-circle-image=\"\\30 \"] > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        "div[data-circle-image=\"\\30 \"] > .custom-block > .text-content > .btn-lg.button.btn > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(2) > .align-left > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(2) > .align-left > .custom-block > .text-content > .btn-lg.button.btn > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(3) > div > .custom-block > .circle-flag > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(3) > div > .custom-block > .text-content > .btn-lg.button.btn > span"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ffa500, font size: 13.5pt, font weight: normal). Expected contrast ratio of 4.5:1"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "empty-heading",
+            "Description": "Ensures headings have discernible text",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/empty-heading?application=axeAPI",
+            "Impact": "minor",
+            "Tags": [
+                "cat.name-role-value",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "div[data-circle-image=\"\\30 \"] > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(2) > .align-left > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                },
+                {
+                    "Target": [
+                        ".column.col-md-4:nth-child(3) > div > .custom-block > .text-content > h3"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Element does not have text that is visible to screen readers"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "label",
+            "Description": "Ensures every form element has a label",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/label?application=axeAPI",
+            "Impact": "critical",
+            "Tags": [
+                "cat.forms",
+                "wcag2a",
+                "wcag332",
+                "wcag131",
+                "section508",
+                "section508.22.n"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "#navsearch"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [],
+                        "None": [
+                            "Form element has explicit <label> that is hidden"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "landmark-one-main",
+            "Description": "Ensures the page has only one main landmark and each iframe in the page has at most one main landmark",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/landmark-one-main?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.semantics",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [
+                            "Page does not have a main landmark"
+                        ],
+                        "Any": [],
+                        "None": []
+                    }
+                }
+            ]
+        },
+        {
+            "Rule": "region",
+            "Description": "Ensures all page content is contained by landmarks",
+            "HelpURL": "https://dequeuniversity.com/rules/axe/3.1/region?application=axeAPI",
+            "Impact": "moderate",
+            "Tags": [
+                "cat.keyboard",
+                "best-practice"
+            ],
+            "Element affected": [
+                {
+                    "Target": [
+                        "html"
+                    ],
+                    "Details": {
+                        "All": [],
+                        "Any": [
+                            "Some page content is not contained by landmarks"
+                        ],
+                        "None": []
+                    }
+                }
+            ]
+        }
+    ]
+}]
