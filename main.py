@@ -105,35 +105,42 @@ def RunAndReturnViolations(url: str):
     return results["violations"]
 
 
+def main():
+    """ Main program
+    """
+    print()
+    print("[{}] Accessibility tester starting now".format(GetTime()))
 
-### -------------------------
-### Main Program starting now
-###
-
-print()
-print("[{}] Accessibility tester starting now".format(GetTime()))
-
-os.makedirs(os.path.abspath("Reports"),exist_ok=True)
-filepath = os.path.abspath("Reports/{}-AccessibilityCheck.txt".format(datetime.now().strftime("%m-%d-%Y_%H-%M-%S")))
-with open(filepath, "w", encoding="utf8") as f:
-    f.write("[")
-    
-    try:
-        total=len(urls)-1
-        for index, page in enumerate(urls):
-            print("[{}] Checking accessibility on page [{}]".format(GetTime(), page))
-            f.write(str(json.dumps(OverrideReportGeneratorToGenerateJSON(page, RunAndReturnViolations(page)), indent=4)))
-            print("[{}] Completed check on page [{}]".format(GetTime(), page))
+    os.makedirs(os.path.abspath("Reports"),exist_ok=True)
+    filepath = os.path.abspath("Reports/{}-AccessibilityCheck.json".format(datetime.now().strftime("%m-%d-%Y_%H-%M-%S")))
+    with open(filepath, "w", encoding="utf8") as f:
+        f.write("[")
         
-            if(index != total):
-                f.write(",")
+        try:
+            total=len(urls)-1
+            if(total < 0):
+                print("[{}] No URLs provided".format(GetTime()))
+                f.write(json.dumps({"Error": "[{}] No URLs provided".format(GetTime())}))
+            else:
+                for index, page in enumerate(urls): 
+                    try:
+                        print("[{}] Checking accessibility on page [{}]".format(GetTime(), page))
+                        f.write(str(json.dumps(OverrideReportGeneratorToGenerateJSON(page, RunAndReturnViolations(page)), indent=4)))
+                        print("[{}] Completed check on page [{}]".format(GetTime(), page))
+                    except:
+                        print("[{}] Problem saving file for url {}".format(GetTime(), page))
+                        f.write(json.dumps({"Error": "[{}] Problem saving file for url {}".format(GetTime(), page)}))
 
-    except NameError:
-        print("[{}] Problem saving file for url".format(GetTime()))
-        f.write(json.dumps({"Error": "[{}] Problem saving file for url".format(GetTime())}))
-    finally:
-        f.write("]")
+                    if(index != total):
+                        f.write(",")
+        except NameError:
+            print("[{}] Problem with program somewhere".format(GetTime()))
+            f.write(json.dumps({"Error": "[{}] Problem with program somewhere".format(GetTime())}))
+        finally:
+            f.write("]")
 
+    print("[{}] Accessibility tester complete".format(GetTime()))
+    print()
 
-print("[{}] Accessibility tester complete".format(GetTime()))
-print()
+if __name__ == '__main__':
+    main()
