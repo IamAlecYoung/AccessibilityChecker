@@ -14,5 +14,6 @@ urls = [
     pageurl+"about-us/getting-here/glenrothes-campus/",                             # Campus overview with maps
     pageurl+"studying-with-us/student-support-services/student-funding/",           # Page with table
     pageurl+"employers/andrew-carnegie-business-school/management-and-leadership/", # Alternative text
-    pageurl+"schools/apply-for-a-schools-course/"                                   # Schools page
+    pageurl+"schools/apply-for-a-schools-course/",                                  # Schools page
+    pageurl+"case-studies/billy-mackie/"                                            # Video element on a page
 ]
