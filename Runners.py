@@ -1,6 +1,10 @@
 from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 from axe_selenium_python import Axe
 
+#class Runners:
+
+#def RunAndSaveToJSON(self, url: str, number: int):
 def RunAndSaveToJSON(url: str, number: int):
     """
     Take in a URL, hit it with axe and return a 
@@ -9,7 +13,9 @@ def RunAndSaveToJSON(url: str, number: int):
     :param number: The number to save the results file as i.e. results1.json
     """
     # Setup the axe object
-    driver = webdriver.Firefox()
+    firefox_options = Options()
+    firefox_options.headless = True
+    driver = webdriver.Firefox(options=firefox_options)
     driver.get(url)
     axe = Axe(driver)
     axe.inject()
@@ -19,6 +25,7 @@ def RunAndSaveToJSON(url: str, number: int):
     driver.close()
 
 
+#def RunAndSaveToCSV(self, url: str, number: int):
 def RunAndSaveToCSV(url: str, number: int):
     """
     Take in a URL, hit it with axe and return a 
@@ -27,6 +34,7 @@ def RunAndSaveToCSV(url: str, number: int):
     :param number: The number to save the results file as i.e. results1.csv
     """
 
+#def RunAndReturnViolations(self, url: str):
 def RunAndReturnViolations(url: str):
     """
     Take in a URL, hit it with axe and return a 
@@ -34,7 +42,9 @@ def RunAndReturnViolations(url: str):
     :param url: The full url to analyse
     """
     # Setup the axe object
-    driver = webdriver.Firefox()
+    firefox_options = Options()
+    firefox_options.headless = True
+    driver = webdriver.Firefox(options=firefox_options)
     driver.get(url)
     axe = Axe(driver)
     axe.inject()

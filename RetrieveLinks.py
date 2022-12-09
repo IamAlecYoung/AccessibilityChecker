@@ -6,6 +6,7 @@ from pagestocheck import pageurl
 
 class RetrieveLinks:
 
+    __hefty_page = "https://www.fife.ac.uk/coursesearch"
     __news_pages = "{}/news".format(pageurl)
     __site_map = "{}/sitemap/".format(pageurl)
     __templates_page = "/courses/search-all-courses/"
