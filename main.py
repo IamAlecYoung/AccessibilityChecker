@@ -6,7 +6,11 @@ from Global import GetTime
 from GenerateJSON import OverrideReportGeneratorToGenerateJSON
 from GenerateCSV import OverrideReportGeneratorToGenerateCSV, GenerateCSVTitles
 from Runners import RunAndReturnViolations, RunAndSaveToJSON
-from RetrieveLinks import ReturnRandomizedPages
+from RetrieveLinks import RetrieveLinks
+
+
+random_pages_to_return = 600
+include_news_in_randomised_results = False
 
 file_to_print = ".csv"
 #file_to_print = "json"
@@ -32,7 +36,10 @@ def main():
         # Otherwise, generate random pages
         pages_to_focus_on = urls
         if(len(urls) < 1):
-            pages_to_focus_on = ReturnRandomizedPages()
+            pages_to_focus_on = RetrieveLinks().return_randomized_pages(
+                num=random_pages_to_return, 
+                include_news=include_news_in_randomised_results
+            )
 
         try:
             total=len(pages_to_focus_on)-1
@@ -42,21 +49,20 @@ def main():
             else:
                 for index, page in enumerate(pages_to_focus_on): 
                     try:
-                        print("[{}] Checking accessibility on page [{}]".format(GetTime(), page))
+                        print("[{}] {}/{} Checking accessibility on page [{}]".format(GetTime(), index, total, page))
                         
                         if(file_to_print == ".json"):
                             f.write(str(json.dumps(OverrideReportGeneratorToGenerateJSON(page, RunAndReturnViolations(page)), indent=4)))
                         elif(file_to_print == ".csv"):
-                            f.write(str(OverrideReportGeneratorToGenerateCSV(page, RunAndReturnViolations(page))))
-                            f.write("\n")
+                            f.write("{}{}".format(str(OverrideReportGeneratorToGenerateCSV(page, RunAndReturnViolations(page))), "\n"))
 
-                        print("[{}] Completed check on page [{}]".format(GetTime(), page))
+                        print("[{}] {}/{} Completed check on page [{}]".format(GetTime(), index, total, page))
                     except Exception as e:
                         print(e)
                         print("[{}] Problem saving file for url {}".format(GetTime(), page))
                         f.write(json.dumps({"Error": "[{}] Problem saving file for url {}".format(GetTime(), page)}))
 
-                    if(index != total):
+                    if(file_to_print == ".json" and index != total):
                         f.write(",")
         except NameError:
             print("[{}] Problem with program somewhere".format(GetTime()))

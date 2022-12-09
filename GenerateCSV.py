@@ -1,7 +1,7 @@
 from datetime import datetime
 
 def GenerateCSVTitles():
-    return "URL,Checked,Violations,Critical,Serious,Moderate,Other\n"
+    return "URL,Checked,Violations,Critical(A),Serious(AA),Moderate(AAA),Other\n"
 
 def OverrideReportGeneratorToGenerateCSV(url: str, violations: list):
     """

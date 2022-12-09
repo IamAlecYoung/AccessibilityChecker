@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 requests = "*"
 axe-selenium-python = "*"
+numpy = "*"
+beautifulsoup4 = "*"
+urllib3 = "*"
 
 [dev-packages]
 
