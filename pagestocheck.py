@@ -1,6 +1,9 @@
 pageurl = "https://www.fife.ac.uk"
+#pageurl = "https://business.fife.ac.uk"
 
-urls = []
+urls = [
+    #"https://www.fife.ac.uk/employers/andrew-carnegie-business-school/management-and-leadership/"
+]
 
 # urls = [
 #     pageurl,                                                                        # Main page

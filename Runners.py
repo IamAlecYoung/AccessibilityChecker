@@ -5,7 +5,7 @@ from axe_selenium_python import Axe
 #class Runners:
 
 #def RunAndSaveToJSON(self, url: str, number: int):
-def RunAndSaveToJSON(url: str, number: int):
+def run_and_save_to_JSON(url: str, number: int):
     """
     Take in a URL, hit it with axe and return a 
     response as a json object
@@ -26,7 +26,7 @@ def RunAndSaveToJSON(url: str, number: int):
 
 
 #def RunAndSaveToCSV(self, url: str, number: int):
-def RunAndSaveToCSV(url: str, number: int):
+def run_and_save_to_CSV(url: str, number: int):
     """
     Take in a URL, hit it with axe and return a 
     response as a CSV file
@@ -35,7 +35,7 @@ def RunAndSaveToCSV(url: str, number: int):
     """
 
 #def RunAndReturnViolations(self, url: str):
-def RunAndReturnViolations(url: str):
+def run_and_return_violations(url: str):
     """
     Take in a URL, hit it with axe and return a 
     response as a jviolation
