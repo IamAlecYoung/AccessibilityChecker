@@ -9,6 +9,8 @@ axe-selenium-python = "*"
 numpy = "*"
 beautifulsoup4 = "*"
 urllib3 = "*"
+customtkinter = "*"
+tk = "*"
 
 [dev-packages]
 
