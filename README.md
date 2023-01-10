@@ -36,3 +36,8 @@ Run the program
 ```bash
   python3 viewer.py
 ```
+
+Package the program for distribution
+```bash
+  pyinstaller --onefile --noconsole viewer.py
+```

@@ -1,3 +1,8 @@
 Reports/
 geckodriver.log
 __pycache__
+build
+dist
+.DS_store
+viewer.spec
+accessibility_check.spec
