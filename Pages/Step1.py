@@ -1,5 +1,10 @@
-from cgitb import text
+import csv
+import tkinter
 import customtkinter as ctk
+from tkinter.filedialog import askopenfilename, asksaveasfilename
+from tkinter.scrolledtext import ScrolledText
+from RetrieveLinks import RetrieveLinks
+from TemplatePageTodoList import TemplatePageTodoList
 
 class StepOne(ctk.CTkFrame):
 
@@ -7,10 +12,11 @@ class StepOne(ctk.CTkFrame):
         ctk.CTkFrame.__init__(self, master)
         
         self.__text_variable = ctk.StringVar(value="https://www.fife.ac.uk/sitemap/") 
-
+        self.__templated_page = ctk.StringVar(value="")
+        
         # Tabview container
-        self.tabview = ctk.CTkTabview(self, width=250)
-        self.tabview.pack()
+        self.tabview = ctk.CTkTabview(self, width=800)
+        self.tabview.pack(anchor="w")
 
         self.tabview.add("Sitemap")
         self.tabview.add("Upload")
@@ -19,12 +25,11 @@ class StepOne(ctk.CTkFrame):
         self.tabview.tab("Upload").grid_columnconfigure(0, weight=1)
 
         # Sitemap Section
-        # ---------------
-        # ---------------
+        # -----------------------
+        # --------------------------------
         
-        ctk.CTkLabel(self.tabview.tab("Sitemap"), text="If the site has a Sitemap, obtain random results", anchor='w').pack()
-        ctk.CTkButton(self.tabview.tab("Sitemap"), text="Go to second page", command=lambda: master.master.switch_frame("PageTwo")).pack()
-
+        ctk.CTkLabel(self.tabview.tab("Sitemap"), text="If the site has a Sitemap, obtain random results", anchor="w").pack()
+        
         # Sitemap frame container section
         # -------------------------------
         self.sitemap_frame_container = ctk.CTkFrame(self.tabview.tab("Sitemap"))
@@ -40,18 +45,23 @@ class StepOne(ctk.CTkFrame):
         # Sitemap upload button
         self.sitemap_upload_button = ctk.CTkButton(self.sitemap_frame_container,
                                      width=120, height=32, border_width=0, corner_radius=5, text="Fetch content",
-                                     command=lambda:self.button_event(value_to_print=self.__text_variable))
+                                     command=lambda:self.fetch_sitemap_content(master=master, sitemap=self.__text_variable.get()))
         self.sitemap_upload_button.grid(row=0, column=1, padx=4)
-
+        
+        self.page_manager = TemplatePageTodoList(master=self.sitemap_frame_container)
+        self.page_manager.grid(row=1,column=0, columnspan=2, padx=2, pady=2)
 
         # Upload Section
-        # ---------------
-        # ---------------
+        # -----------------------
+        # --------------------------------
 
         ctk.CTkLabel(self.tabview.tab("Upload"), text="Upload a CSV of files to check", anchor='w').pack()
-        ctk.CTkButton(self.tabview.tab("Upload"), text="Go to second page", command=lambda: master.master.switch_frame("PageTwo")).pack()
 
-        # Sitemap frame container section
+        self.download_examle_csv = ctk.CTkLabel(self.tabview.tab("Upload"), text="Download example csv", cursor="hand2", font=ctk.CTkFont(underline=True))
+        self.download_examle_csv.pack()
+        self.download_examle_csv.bind("<Button-1>", lambda e:self.create_example_file()) #lambda e:callback(e, "tag1"))
+
+        # Upload frame container section
         # -------------------------------
         self.upload_frame_container = ctk.CTkFrame(self.tabview.tab("Upload"))
         self.upload_frame_container.pack()
@@ -59,30 +69,54 @@ class StepOne(ctk.CTkFrame):
         self.upload_frame_container.grid_columnconfigure(0, weight=3)
         self.upload_frame_container.grid_columnconfigure(1, weight=1)
  
-        # Sitemap text entry
-        self.sitemap_text_entry = ctk.CTkEntry(self.upload_frame_container, textvariable=self.__text_variable, width=240)
-        self.sitemap_text_entry.grid(row=0, column=0, padx=(0, 4), sticky="nesw")
+        # Upload upload button
+        self.upload_upload_button = ctk.CTkButton(self.upload_frame_container,
+                                     width=120, height=32, border_width=0, corner_radius=5, text="Select file",
+                                     command=lambda:self.open_file(self=self,master=master))
+        self.upload_upload_button.grid(row=0, column=1, padx=4)
 
-        # Sitemap upload button
-        self.sitemap_upload_button = ctk.CTkButton(self.upload_frame_container,
-                                     width=120, height=32, border_width=0, corner_radius=5, text="Fetch content",
-                                     command=lambda:self.button_event(value_to_print=self.__text_variable))
-        self.sitemap_upload_button.grid(row=0, column=1, padx=4)
 
-        # # self.uploaded_value = customtkinter.CTkLabel(self.tabview.tab("Sitemap"),
-        # #                        textvariable=self.__text_variable, width=120, height=25, fg_color=("white", "gray75"), corner_radius=8)
-        # # self.uploaded_value.grid(row=2,column=0)
+    def open_file(event=None, self=None, master=None):
+        """Open a file for editing."""
+        filepath = askopenfilename(
+            filetypes=[("CSV File", "*.csv"), ("All Files", "*.*")]
+        )
+        if not filepath:
+            return
+        filename = open(filepath, 'r')
+        reader = csv.DictReader(filename)
 
-        # # Upload tab content
-        # self.upload_label = customtkinter.CTkLabel(self.tabview.tab("Upload"), text="Upload a CSV list of website addresses")
-        # self.upload_label.grid(row=1,column=0)
+        for sites in reader:
+            master.master.pages_to_search_against.append(sites['pages'])
+
+        master.master.switch_frame("PageTwo") # Go to next page
+
+
+    def fetch_sitemap_content(event=None, master=None, sitemap:str=None):
+        retrieve_links = RetrieveLinks()
+        master.master.pages_to_search_against = retrieve_links.initial_return_all_pages_using_sitemap(sitemap=sitemap, templated_pages=master.master.templated_pages)
+        master.master.switch_frame("PageTwo") # Go to next page
+
+
+    def create_example_file(event=None):
+        """Generates an example file to show how the CSV should look"""
+        filepath = asksaveasfilename(
+            defaultextension=".csv",
+            filetypes=[("CSV File", "*.csv"), ("All Files", "*.*")],
+        )
+        if not filepath:
+            return
+
+        example_sites = []
+        example_sites.append("https://www.fife.ac.uk")
+        example_sites.append("https://www.fife.ac.uk/staff/")
+        example_sites.append("https://www.fife.ac.uk/about-us/board-of-governors/our-board-of-governors/")
         
-
-        # self.label = customtkinter.CTkLabel(self.main_frame, text="Login System")
-        # self.label.place()
-
-    def button_event(event=None, value_to_print=None):
-        print(value_to_print.get())
+        csv_titles = "pages\n"
+        csv_content = ',\n'.join(example_sites)
+        
+        with open(filepath, mode="w", encoding="utf-8") as output_file:
+            output_file.write("{}{}".format(csv_titles,csv_content))
 
 
 if __name__ == "__main__":

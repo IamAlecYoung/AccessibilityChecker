@@ -34,5 +34,5 @@ Install dependencies and enter shell
 Run the program
 
 ```bash
-  python3 main.py
+  python3 viewer.py
 ```
