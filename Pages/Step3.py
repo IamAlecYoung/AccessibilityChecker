@@ -30,23 +30,15 @@ class StepThree(ctk.CTkFrame):
         # Redirect the console output to the Text widget
         sys.stdout = TextRedirector(self.text_widget)
 
-        self.file_save_location = ctk.CTkLabel(self.step3_inner_container, text="Saving to"+RunAccessibilityCheck.get_file_type(self=self, file_to_print=self.master.master.export_type))
+        self.file_save_location = ctk.CTkLabel(self.step3_inner_container, text="Saving to "+RunAccessibilityCheck.get_file_type(self=self, file_to_print=self.master.master.export_type))
         self.file_save_location.grid(row=2, column=0, columnspan=2, padx=3, pady=2)
-
-        # self.print_value = ctk.CTkLabel(self.step3_inner_container, text="Values"+str(self.currently_running.get()))
-        # self.print_value.grid(row=2, column=1)
-        # self.print_value = ctk.CTkLabel(self.step3_inner_container, text="Values"+str(self.other_runner.get()))
-        # self.print_value.grid(row=2, column=2)
-        # self.print_value = ctk.CTkLabel(self.step3_inner_container, text="Values"+str(self.other_other_thing.get()))
-        # self.print_value.grid(row=2, column=3)
-
 
         if self.currently_running.get():
             self.running_currently = ctk.CTkLabel(self.step3_inner_container, text="Currently running...")
             self.running_currently.grid(row=3, column=0)
         else:
             # Create a button to start printing numbers
-            self.print_button = ctk.CTkButton(self.step3_inner_container, text="Print", 
+            self.print_button = ctk.CTkButton(self.step3_inner_container, text="Start checks", 
             command=lambda: [
                 self.change_running_status(), 
                 threading.Thread(target=self.start_file_download).start()
@@ -56,6 +48,8 @@ class StepThree(ctk.CTkFrame):
         # Create a quit button
         self.quit_button = ctk.CTkButton(self.step3_inner_container, text="Quit", command=master.quit)
         self.quit_button.grid(row=3, column=1)
+
+
 
     def clear_and_return(event=None, self=None, master=None):
         """Clear the list and return to the previous page"""

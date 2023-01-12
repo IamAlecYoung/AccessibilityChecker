@@ -1,5 +1,6 @@
 import tkinter, customtkinter
 #from StartPage import StartPage
+from Pages.StartPage import StartPage
 from Pages.Step1 import StepOne
 from Pages.Step2 import StepTwo
 from Pages.Step3 import StepThree
@@ -10,6 +11,7 @@ customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 
 pages = {
+    "Start": StartPage,
     "PageOne": StepOne, 
     "PageTwo": StepTwo,
     "PageThree": StepThree
@@ -52,7 +54,7 @@ class MainView(customtkinter.CTk):
         self.main_frame.grid(row=1, column=1, columnspan=3, sticky="nsew") 
 
         self._frame = None
-        self.switch_frame("PageOne")
+        self.switch_frame("Start")
 
 
     def switch_frame(self, page_name:str):
