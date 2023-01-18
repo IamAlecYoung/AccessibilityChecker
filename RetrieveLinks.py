@@ -67,6 +67,16 @@ class RetrieveLinks:
         return sorted(list(dict.fromkeys(non_templated)))
 
 
+    def initial_return_all_pages_starting_with(self, sitemap:str, starts_with:str):
+        """Return all pages that start with a URL from the sitemap """
+
+        all_results = self.__generate_all_pages(sitemap)
+
+        templated_results = [result for result in all_results if result.startswith(starts_with)]
+
+        return templated_results
+
+
     def initial_return_all_pages_using_sitemap(self, sitemap:str, templated_pages:list=[]):
         """Return all pages, with the option of removing all templated """
 

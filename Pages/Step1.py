@@ -12,7 +12,7 @@ class StepOne(ctk.CTkFrame):
         ctk.CTkFrame.__init__(self, master)
         
         self.__text_variable = ctk.StringVar(value="https://www.fife.ac.uk/sitemap/") 
-        self.__templated_page = ctk.StringVar(value="")
+        self.__templated_page = ctk.StringVar(value="https://www.fife.ac.uk/news")
         
         # Tabview container
         self.tabview = ctk.CTkTabview(self, width=800)
@@ -20,9 +20,11 @@ class StepOne(ctk.CTkFrame):
 
         self.tabview.add("Sitemap")
         self.tabview.add("Upload")
+        self.tabview.add("Starts with")
 
         self.tabview.tab("Sitemap").grid_columnconfigure(0, weight=1)  # configure grid of individual tabs
         self.tabview.tab("Upload").grid_columnconfigure(0, weight=1)
+        self.tabview.tab("Starts with").grid_columnconfigure(0, weight=1)
 
         # Sitemap Section
         # -----------------------
@@ -62,7 +64,6 @@ class StepOne(ctk.CTkFrame):
         self.download_examle_csv.bind("<Button-1>", lambda e:self.create_example_file()) #lambda e:callback(e, "tag1"))
 
         # Upload frame container section
-        # -------------------------------
         self.upload_frame_container = ctk.CTkFrame(self.tabview.tab("Upload"))
         self.upload_frame_container.pack()
 
@@ -75,6 +76,35 @@ class StepOne(ctk.CTkFrame):
                                      command=lambda:self.open_file(self=self,master=master))
         self.upload_upload_button.grid(row=0, column=1, padx=4)
 
+        # Starts with Section
+        # -----------------------
+        # --------------------------------
+
+        ctk.CTkLabel(self.tabview.tab("Starts with"), text="Check all URLs and children of that URL", anchor='w').pack()
+
+        # Startwith frame container section
+        self.startwith_frame_container = ctk.CTkFrame(self.tabview.tab("Starts with"))
+        self.startwith_frame_container.pack()
+
+        self.startwith_frame_container.grid_columnconfigure(0, weight=3)
+        self.startwith_frame_container.grid_columnconfigure(1, weight=1)
+ 
+        # Startwith text entry
+        self.startwith_text_entry = ctk.CTkEntry(self.startwith_frame_container, textvariable=self.__templated_page, width=240)
+        self.startwith_text_entry.grid(row=0, column=0, padx=(0, 4), sticky="nesw")
+
+        # Startwith upload button
+        self.startwith_upload_button = ctk.CTkButton(self.startwith_frame_container,
+                                     width=120, height=32, border_width=0, corner_radius=5, text="Fetch content",
+                                     command=lambda:self.pages_that_start_with(master=master, sitemap=self.__text_variable.get(), startswith=self.__templated_page.get()))
+        self.startwith_upload_button.grid(row=0, column=1, padx=4)
+
+
+    def pages_that_start_with(event=None, master=None, sitemap:str=None, startswith:str=None):
+        """Find all pages that start with a certain url."""
+        retrieve_links = RetrieveLinks()
+        master.master.pages_to_search_against = retrieve_links.initial_return_all_pages_starting_with(sitemap=sitemap, starts_with=startswith)
+        master.master.switch_frame("PageTwo") # Go to next page
 
     def open_file(event=None, self=None, master=None):
         """Open a file for editing."""
