@@ -33,27 +33,28 @@ class RunAccessibilityCheck:
             pages_to_focus_on = pages_to_check
 
             try:
-                total=len(pages_to_focus_on)-1
+                total=len(pages_to_focus_on)
                 if(total < 0):
                     print("[{}] No URLs provided".format(GetTime()))
                     f.write(json.dumps({"Error": "[{}] No URLs provided".format(GetTime())}))
                 else:
                     for index, page in enumerate(pages_to_focus_on): 
+                        index_readable = index + 1
                         try:
-                            print("[{}] {}/{} Checking accessibility on page [{}]".format(GetTime(), index, total, page))
+                            print("[{}] {}/{} Checking accessibility on page [{}]".format(GetTime(), index_readable, total, page))
                             
                             if(file_to_print == ".json"):
                                 f.write(str(json.dumps(GenerateJSON().override_json_report_generator(page, run_and_return_violations(page)), indent=4)))
                             elif(file_to_print == ".csv"):
                                 f.write("{}{}".format(str(GenerateCSV().override_CSV_report_generator(page, run_and_return_violations(page))), "\n"))
 
-                            print("[{}] {}/{} Completed check on page [{}]".format(GetTime(), index, total, page))
+                            print("[{}] {}/{} Completed check on page [{}]".format(GetTime(), index_readable, total, page))
                         except Exception as e:
                             print(e)
                             print("[{}] Problem saving file for url {}".format(GetTime(), page))
                             f.write(json.dumps({"Error": "[{}] Problem saving file for url {}".format(GetTime(), page)}))
 
-                        if(file_to_print == ".json" and index != total):
+                        if(file_to_print == ".json" and index_readable != total):
                             f.write(",")
             except NameError:
                 print("[{}] Problem with program somewhere".format(GetTime()))

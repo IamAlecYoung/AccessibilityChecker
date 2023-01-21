@@ -5,13 +5,13 @@ name = "pypi"
 
 [packages]
 requests = "*"
-axe-selenium-python = "*"
 numpy = "*"
 beautifulsoup4 = "*"
 urllib3 = "*"
 customtkinter = "*"
 tk = "*"
 pyinstaller = "*"
+axe-selenium-python = {editable = true, ref = "master", git = "https://github.com/mozilla-services/axe-selenium-python.git"}
 
 [dev-packages]
 
