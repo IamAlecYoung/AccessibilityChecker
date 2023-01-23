@@ -42,8 +42,10 @@ class MainView(customtkinter.CTk):
 
         self.top_bar = customtkinter.CTkFrame(self, width=800, height=20)
         self.top_bar.grid(row=0, column=0, columnspan=2)
-        self.top_bar_label = customtkinter.CTkLabel(self.top_bar, text="Localized Live Accessibility and Modification Analyzer")
+        self.top_bar_label = customtkinter.CTkLabel(self.top_bar, text="Localized Live Accessibility and Modification Analyzer (LLama)")
         self.top_bar_label.grid(row=0, column=0, sticky="w")
+        self.top_bar_label_warning = customtkinter.CTkLabel(self.top_bar, text="WARNING: You MUST have Firefox installed for this to work.")
+        self.top_bar_label_warning.grid(row=1, column=0, sticky="w")
 
         self.side_panel = customtkinter.CTkFrame(self, width=125)
         self.side_panel.grid(row=1, column=0)

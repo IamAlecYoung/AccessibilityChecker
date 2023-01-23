@@ -6,3 +6,4 @@ dist
 .DS_store
 viewer.spec
 accessibility_check.spec
+release

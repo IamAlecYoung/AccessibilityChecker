@@ -49,7 +49,7 @@ More info https://github.com/TomSchimansky/CustomTkinter/wiki/Packaging#windows-
 ```bash
   pip show customtkinter        # Make note of the location to use below
   pip show axe_selenium_python  # Also this one
-  pyinstaller --noconfirm --onedir --windowed --add-data "c:/users/alecyoung/.virtualenvs/accessibilitychecker-qrd-bgeu/lib/site-packages/customtkinter;customtkinter/" --add-data "c:/users/alecyoung/.virtualenvs/accessibilitychecker-qrd-bgeu/lib/site-packages/axe_selenium_python;axe_selenium_python/" viewer.py
+  pyinstaller --noconfirm --onedir --windowed --add-data "c:/users/alecyoung/.virtualenvs/accessibilitychecker-qrd-bgeu/lib/site-packages/customtkinter;customtkinter/" --add-data "c:\users\alecyoung\.virtualenvs\accessibilitychecker-qrd-bgeu\src\axe-selenium-python\axe_selenium_python;axe_selenium_python/" viewer.py
 ```
 
 ***Note***: Within the ```--add-data ``` commands above, one of the biggest differences is that the directorys are seperated by a colon (:) on unix and a semicolon (;) on windows.
