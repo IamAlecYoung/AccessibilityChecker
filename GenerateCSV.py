@@ -33,11 +33,11 @@ class GenerateCSV:
             
             tags_in_violation = violation["tags"]
             
-            if('wcag2a' in tags_in_violation or 'wcag21a' in tags_in_violation or 'wcag21a' in tags_in_violation):
+            if('wcag2a' in tags_in_violation or 'wcag21a' in tags_in_violation):
                 fails_wcag_a += 1
-            elif('wcag2aa' in tags_in_violation or 'wcag21aa' in tags_in_violation or 'wcag21aa' in tags_in_violation):
+            elif('wcag2aa' in tags_in_violation or 'wcag21aa' in tags_in_violation):
                 fails_wcag_aa += 1
-            elif('wcag2aaa' in tags_in_violation or 'wcag21aaa' in tags_in_violation or 'wcag21aaa' in tags_in_violation):
+            elif('wcag2aaa' in tags_in_violation or 'wcag21aaa' in tags_in_violation):
                 fails_wcag_aaa += 1
             elif('best-practice' in tags_in_violation):
                 best_practice += 1
