@@ -23,7 +23,7 @@ class MainView(customtkinter.CTk):
         customtkinter.CTk.__init__(self)
         
         self.geometry("1000x700")
-        self.title("This is a new window")
+        self.title("Llama Accessibility checker")
 
         # Global variables persisted across pages
         self.templated_pages = [

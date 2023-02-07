@@ -1,4 +1,4 @@
-from imp import get_tag
+#from imp import get_tag
 import json
 
 def Is_Value_A_Voilation(tag_list:list):
@@ -26,8 +26,15 @@ def Get_Tag_Value(tag_list:list):
     else:
         return "Unknown"
 
-read_filepath = "/Users/alecyoung/Reports/01-25-2023_17-57-34-AccessibilityCheck.json"
-write_filepath = "/Users/alecyoung/Reports/output.txt"
+def Get_WCAG_Value(tag_list:list):
+    """Get the accessibility number tag value"""
+    wcag_elements = [tag for tag in tag_list if tag.startswith("wcag")]
+    if wcag_elements:
+        wcag_error = [tag for tag in wcag_elements if not tag.endswith("a")]
+        return wcag_error
+
+read_filepath = "/Users/alecyoung/code/Work/AccessibilityChecker/Reports/02-07-2023_23-08-44-AccessibilityCheck_only_audited.json"
+write_filepath = "/Users/alecyoung/code/Work/AccessibilityChecker/Reports/output_edge_browser_only_audited.txt"
 
 with open(read_filepath, 'r') as content:
     imported_json = json.load(content)
@@ -64,7 +71,8 @@ with open(write_filepath, "w", encoding="utf8") as f:
             # Only print out WCAG violations
             if Is_Value_A_Voilation(problem["Tags"]) is False:
                 continue
-            
+
+            f.write("\t%-s (%-s) %-40s \n" % (Get_WCAG_Value(problem["Tags"]), Get_Tag_Value(problem["Tags"]), problem["Description"]))
             f.write("\t(%-s) %-40s \n" % (Get_Tag_Value(problem["Tags"]), problem["Description"]))
             f.write("\t%-40s\n" % (problem["HelpURL"]))
 
