@@ -1,0 +1,1161 @@
+https://www.fife.ac.uk/about-us/alumni/ 
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/about-us/getting-here/dunfermline-campus/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/about-us/getting-here/levenmouth-campus/
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/about-us/getting-here/new-dunfermline-learning-campus-2024/
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/about-us/getting-here/rosyth-campus/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/about-us/work-with-us/10-reasons-to-work-with-us/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/about-us/work-with-us/equality-diversity-and-inclusion/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/accelerator-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/access-to-qualifications-further-study-and-higher-education-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/auchmuty-high-school-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/az/              
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/    
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/aleksandra-ogorzalek/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/andy-mcbean/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/arlene-nicoll/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/ashleigh-mitchell/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/ben-kenny/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/billy-mackie/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/bradley-innes/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/brian-barclay/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/cameron-mclinden/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/chloe-veitch/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/christina-tweedie/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/darren-hamilton/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/dave-jackson/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/david-mulligan/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/dean-gartshore/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/derry-robertson/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/duncan-napier/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/eilidh-hutchison/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/eilidh-smith/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/erin-duffy/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/hazel-donnelly/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/jack-brogan/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/jade-shahfar/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/jake-leitch/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/james-hutt/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/john-hancock/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/jordan-dick/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/joyce-laird/
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/leeanne-clark/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/lewis-kerwin/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/lewis-macgregor/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/lisa-chandler/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/lisa-mcdonald/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/lorna-mccarroll/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/michael-di-folco/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/michael-inglis/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/michelle-barr/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/monika-cook/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/neil-muirhead/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/pauline-hughes/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/rachael-mcdonald/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/rebecca-saxton/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/sarah-kippen/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/scott-keir/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/scott-urqhart/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/sharon-johnstone/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/stuart-russell/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/tammala-noble/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/case-studies/tyrese-hague/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/community-and-supported-learning-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/community-based-learning/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/complaints-your-voice/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/complaints-your-voice/complaint-form/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/corporate-and-governance/key-governance/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/corporate-and-governance/policies-and-procedures/complaints-your-voice/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/corporate-and-governance/policies-and-procedures/privacy-policy/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/corporate-and-governance/strategic-reports-and-plans/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/         
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/choosing-a-course-and-applying/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/choosing-a-course-and-applying/a-to-z-of-all-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/choosing-a-course-and-applying/career-coach/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/choosing-a-course-and-applying/how-to-apply/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/choosing-a-course-and-applying/the-scqf-table/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/degrees/ 
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+	['wcag412'] (WCAG A) Ensures buttons have discernible text    
+	(WCAG A) Ensures buttons have discernible text    
+	https://dequeuniversity.com/rules/axe/4.6/button-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/degrees/degree-courses-at-fife-college/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/degrees/degrees-with-the-ou/
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/degrees/progressing-to-university/
+	['wcag412'] (WCAG A) Ensures buttons have discernible text    
+	(WCAG A) Ensures buttons have discernible text    
+	https://dequeuniversity.com/rules/axe/4.6/button-name?application=axeAPI
+	                                        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/part-time-study/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/developing-skills-for-learning-life-and-work/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/highers/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/hncs-hnds-and-degrees/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/modern-apprenticeships/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag412'] (WCAG A) Ensures buttons have discernible text    
+	(WCAG A) Ensures buttons have discernible text    
+	https://dequeuniversity.com/rules/axe/4.6/button-name?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/professional-qualifications/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/swap/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/qualifications-explained/work-based-qualifications/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/search-all-courses/hcele/
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+	['wcag412'] (WCAG A) Ensures interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies 
+	(WCAG A) Ensures interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies 
+	https://dequeuniversity.com/rules/axe/4.6/nested-interactive?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/
+	['wcag412'] (WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	(WCAG A) Ensures ARIA attributes are allowed for an element's role 
+	https://dequeuniversity.com/rules/axe/4.6/aria-allowed-attr?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/access-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/administration-office-technologies-and-legal-services/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/art-and-design-fashion-and-jewellery/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/business-enterprise-and-accounting/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/childhood-studies/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/community-based-learning/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/construction-and-built-environment/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/creative-media/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/culinary-arts/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/digital-computing-and-cyber/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/engineering-and-energy/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/esol/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/hair-beauty-and-make-up-artistry/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/health-and-social-care/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/mathematics/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/performing-arts/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/science/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/skills-boost/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/social-sciences/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/sport-and-fitness/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/stem/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/supported-learning/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/courses/subject-areas/tourism-events-and-hospitality/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/coursesearch/    
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/digital-update/  
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/       
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/andrew-carnegie-business-school/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/andrew-carnegie-business-school/cpd-short-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/andrew-carnegie-business-school/human-resources-and-learning-development/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/andrew-carnegie-business-school/it-short-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/andrew-carnegie-business-school/management-and-leadership/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/andrew-carnegie-business-school/project-management/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/andrew-carnegie-business-school/quality-management-and-business-improvement/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/care/  
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/electrical-training/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/engineering-and-ipc/automotive/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/engineering-and-ipc/other-engineering-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/health-safety-and-environmental-management/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/industry-skills-and-plant-training/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/meetings-and-conferences/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/modern-apprenticeships/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/modern-apprenticeships/construction-mas/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/national-gas-training-and-assessment-centre/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/tailored-solutions/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/employers/work-based-qualifications/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/engineering-open-day-2023/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/events/          
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/events/engineering-open-day-2023/
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/fife-college-prospectus/
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/he-and-degree-search-result-page/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/he-creative-industries/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/he-legal-services-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/he-tourism-and-events-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/latest-news-re-coronavirus-restrictions/
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/media/6578/campus-opening-hours.pdf
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+	['wcag311'] (WCAG A) Ensures every HTML document has a lang attribute 
+	(WCAG A) Ensures every HTML document has a lang attribute 
+	https://dequeuniversity.com/rules/axe/4.6/html-has-lang?application=axeAPI
+	                                        
+	['wcag144'] (WCAG AA) Ensures <meta name="viewport"> does not disable text scaling and zooming 
+	(WCAG AA) Ensures <meta name="viewport"> does not disable text scaling and zooming 
+	https://dequeuniversity.com/rules/axe/4.6/meta-viewport?application=axeAPI
+	                                        
+https://www.fife.ac.uk/new-dunfermline-learning-campus-2024/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/part-time-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/places-available/
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/         
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/apply-for-a-schools-course/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/campuses-and-facilities/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/course-and-career-planners/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/fa-case-studies/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/fa-employers/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/foundation-apprenticeships/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/school-college-partnership-courses/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/schools/schools-information/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/sitemap/         
+	['wcag131'] (WCAG A) Ensures that lists are structured correctly 
+	(WCAG A) Ensures that lists are structured correctly 
+	https://dequeuniversity.com/rules/axe/4.6/list?application=axeAPI
+	                                        
+https://www.fife.ac.uk/staff/           
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/student-funding/ 
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/student-funding/full-time-fe/
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/graduation/
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag412'] (WCAG A) Ensures <iframe> and <frame> elements have an accessible name 
+	(WCAG A) Ensures <iframe> and <frame> elements have an accessible name 
+	https://dequeuniversity.com/rules/axe/4.6/frame-title?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/ilearn/ 
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/intheloop/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/intheloop/faqs/
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/intheloop/getting-ready-for-college/
+	['wcag411'] (WCAG A) Ensures every id attribute value of active elements is unique 
+	(WCAG A) Ensures every id attribute value of active elements is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id-active?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/intheloop/student-life/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/intheloop/support-services/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/intheloop/your-learning/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/learner-surveys/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/students/student-portal/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/
+	['wcag311'] (WCAG A) Ensures every HTML document has a lang attribute 
+	(WCAG A) Ensures every HTML document has a lang attribute 
+	https://dequeuniversity.com/rules/axe/4.6/html-has-lang?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+	['wcag412', 'wcag244'] (WCAG A) Ensures links have discernible text      
+	(WCAG A) Ensures links have discernible text      
+	https://dequeuniversity.com/rules/axe/4.6/link-name?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/adam-smith-scholarships/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/adam-smith-scholarships/apply-now/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/adam-smith-scholarships/become-a-donor/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/facilities/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/facilities/college-restaurants/
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/facilities/inspired-salons/
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/facilities/the-academy-restaurant/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/student-support-services/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/student-support-services/care-experienced-students/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/student-support-services/guidance-and-attendance/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/student-support-services/library-services/
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/student-support-services/student-employability-hub/
+	['wcag111'] (WCAG A) Ensures every ARIA progressbar node has an accessible name 
+	(WCAG A) Ensures every ARIA progressbar node has an accessible name 
+	https://dequeuniversity.com/rules/axe/4.6/aria-progressbar-name?application=axeAPI
+	                                        
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+https://www.fife.ac.uk/studying-with-us/student-support-services/student-funding/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
+https://www.fife.ac.uk/taggedcoursesearch/
+	['wcag411'] (WCAG A) Ensures every id attribute value is unique 
+	(WCAG A) Ensures every id attribute value is unique 
+	https://dequeuniversity.com/rules/axe/4.6/duplicate-id?application=axeAPI
+	                                        
+https://www.fife.ac.uk/virtual-open-day/
+	['wcag143'] (WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	(WCAG AA) Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds 
+	https://dequeuniversity.com/rules/axe/4.6/color-contrast?application=axeAPI
+	                                        
+	['wcag412'] (WCAG A) Ensures <iframe> and <frame> elements have an accessible name 
+	(WCAG A) Ensures <iframe> and <frame> elements have an accessible name 
+	https://dequeuniversity.com/rules/axe/4.6/frame-title?application=axeAPI
+	                                        
+https://www.fife.ac.uk/virtual-open-day/faqs/
+	['wcag131'] (WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	(WCAG A) Ensures elements with an ARIA role that require child roles contain them 
+	https://dequeuniversity.com/rules/axe/4.6/aria-required-children?application=axeAPI
+	                                        
+	['wcag141'] (WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	(WCAG A) Ensure links are distinguished from surrounding text in a way that does not rely on color 
+	https://dequeuniversity.com/rules/axe/4.6/link-in-text-block?application=axeAPI
+	                                        
