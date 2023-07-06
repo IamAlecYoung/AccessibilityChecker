@@ -7,3 +7,12 @@ dist
 viewer.spec
 accessibility_check.spec
 release
+Scripts/ParseJson/audit_parse.txt
+.gitignore
+Scripts/ParseJson/fullaudit.json
+Scripts/ParseJson/audit_parse.txt
+Scripts/ParseJson/audit_parse.txt
+Scripts/GroupedCSV/audit_parse.txt
+Scripts/ParseJson/audit_parse.txt
+Scripts/ParseJson/audit_parse.txt
+Scripts/ParseJson/audit_parse.txt

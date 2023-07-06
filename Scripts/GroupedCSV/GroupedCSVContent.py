@@ -81,7 +81,7 @@ def Get_Unique_Titles(line_row:list):
     return unique_titles
 
 
-read_filepath = "03-05-2023_21-28-27-AccessibilityCheck.json"
+read_filepath = "07-06-2023_20-24-29-AccessibilityCheck.json"
 write_filepath = "audit_parse.txt"
 
 print("Starting program")

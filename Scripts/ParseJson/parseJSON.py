@@ -33,7 +33,7 @@ def Get_WCAG_Value(tag_list:list):
         wcag_error = [tag for tag in wcag_elements if not tag.endswith("a")]
         return wcag_error
 
-read_filepath = "fullaudit.json"
+read_filepath = "07-06-2023_20-24-29-AccessibilityCheck.json"
 write_filepath = "audit_parse.txt"
 
 with open(read_filepath, 'r') as content:
